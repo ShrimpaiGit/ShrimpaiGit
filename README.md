@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ShrimpaiGit
+- 👀 I’m interested in coding and making games in godot
+- 🌱 I’m currently learning GDScript
